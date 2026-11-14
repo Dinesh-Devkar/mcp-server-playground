@@ -1,6 +1,6 @@
 from mcp.server import MCPServer
 
-mcp=MCPServer(name='local-expense-tracker')
+mcp=MCPServer(name='dinesh-local-expense-tracker')
 
 EXPENSES = [
     {"category": "Food", "amount": 350.0},
